@@ -115,6 +115,11 @@
 * [Kubernetes](http://kubernetes.io/)
 * [Deis](http://deis.io/)
 * [Flynn](https://flynn.io/)
+* [Decking](http://decking.io/)
+* [DevStack](https://wiki.openstack.org/wiki/Docker)
+* [Shipyard](http://shipyard-project.com/)
+* [Geard](http://openshift.github.io/geard/)
+* [Panamax](http://panamax.io/)
 
 
 # Continuous Integration / Deployment
@@ -194,7 +199,7 @@
 * [Collection of tools](http://gexos.github.io/Hacking-Tools-Repository/)
 
 
-# Network 
+# Network
 
 * [Cacti](http://www.cacti.net/)
 * [MRTG](http://oss.oetiker.ch/mrtg/)
@@ -211,7 +216,7 @@
 * [Hydra](https://www.thc.org/thc-hydra/)
 
 
-# Docker 
+# Docker
 
 ## Orchestration
 
