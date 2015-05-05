@@ -214,6 +214,9 @@
 * [iptraf](http://iptraf.seul.org/)
 * [keepalived](http://www.keepalived.org/)
 * [Hydra](https://www.thc.org/thc-hydra/)
+* [ab](http://httpd.apache.org/docs/2.2/programs/ab.html)
+* [hping3](http://www.hping.org/hping3.html)
+* [tcpkill](http://www.monkey.org/~dugsong/dsniff/)
 
 
 # Docker
